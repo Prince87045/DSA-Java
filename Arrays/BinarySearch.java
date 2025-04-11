@@ -1,4 +1,5 @@
 //Find the index of element in a given array
+//prerequisite - sorted array
 public class BinarySearch {
     public static int binSearch(int num[],int key){
         int strIdx = 0;
