@@ -29,6 +29,6 @@ public class Prime {
     public static void main(String[] args) {
         System.out.println(checkPrime(5));
         System.out.println(checkPrime(4));
-        System.out.println(isPrime(13));       
+        System.out.println(isPrime(57));       
     }
 }
